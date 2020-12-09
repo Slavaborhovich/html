@@ -1,0 +1,90 @@
+html {
+	background: url(pictures/pic/cx1.jpg) no-repeat center fixed;
+	background-size: cover;
+  
+} 
+
+body{direction:rtl;
+}
+
+
+#header{
+	max-width: 100%;
+    width:100%;
+	border-radius: 8px; 
+}
+
+
+
+.pictures{
+	width:100%;
+	border-radius: 8px;
+	padding: 0 4px;
+	float: center;
+	width: 24.2%;
+    margin: 4px 0;
+}
+
+#contactUsp{
+	direction:ltr;
+	float:center;
+	padding-right:15%;
+	color: white;
+	text-shadow: 2px 2px 4px #000000;
+	font-family:Arial;	
+	
+}
+
+#profilepic{
+	border:solid #000000;
+	border-radius: 25px;
+    width:11%;
+	float:left;
+}
+
+#contactUs{  
+	border:solid #000000;
+	border-radius: 25px;
+	background:#404040;
+	padding:10;
+	width: 95%;
+	height:8%;
+	margin:5;
+	
+	
+}
+	
+#rcorners{
+	border-radius: 25px;
+	border: 2px solid black;
+	padding: 20px;
+	width: 97%;
+	height: auto;
+}
+	
+h2{
+	color: white;
+	text-shadow: 2px 2px 4px #000000;
+	font-family:Arial;
+	text-align:center;
+	float:center;
+}
+
+.content{
+	text-align:center;
+	font-family:Arial;
+	font-size:120%;
+	line-height:150%;
+	text-decoration:bold;
+}
+	
+div p{
+	font-family:Arial;
+	text-align:right;
+	line-height:150%
+}
+	
+.alink{
+	text-decoration:none;
+}
+	
